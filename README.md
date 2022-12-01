@@ -1,6 +1,6 @@
 # init
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="images/foto.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
